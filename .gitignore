@@ -1,0 +1,11 @@
+.vscode/
+*.ip_user_files/
+*.runs/
+*.sims/
+*.cache/
+*.hw/
+loongson/
+vivado.jou
+vivado.log
+vivado*.str
+
